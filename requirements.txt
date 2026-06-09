@@ -1,0 +1,5 @@
+# Sprint 1 - Fundamentos de Python para Análise de Dados
+# Apenas para executar o Jupyter Notebook
+
+jupyter>=1.0.0
+ipykernel>=6.0.0
